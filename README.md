@@ -6,26 +6,19 @@ The application was written in Javascript, it has as dependency the library Expr
 
 ## System Functionalities and Modules
 
-- Client API Authenticate
-
+* Client API Authenticate
   - Authentication
-
-- Authentication Module
-
+* Authentication Module
   - Signin
   - Signup
   - Signout
   - Social Auth (Google, Facebook and Twitter)
-
-- Database Module
-
+* Database Module
   - Create
   - Read
   - Update
   - Delete
-
-- Storage Module
-
+* Storage Module
   - Create
   - Read
   - Update
