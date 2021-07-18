@@ -26,7 +26,7 @@ The application was written in Javascript, it has as dependency the library Expr
 
 ## Authors
 
-- **Júlio César** - _Initial work_ - [KaesarZ](https://github.com/KaesarZ)
+- **Júlio Barros** - _Initial work_ - [kaesardev](https://github.com/kaesardev)
 
 See also the list of [contributors](https://github.com/KaesarZ/Argus/contributors) who participated in this project.
 
